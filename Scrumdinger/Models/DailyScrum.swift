@@ -29,6 +29,5 @@ extension DailyScrum {
                    attendees: ["Chella", "Chris", "Christina", "Eden", "Karla", "Lindsey", "Age", "Chad", "Jenn", "Sarah"],
                    lengthInMinutes: 5,
                    theme: .poppy)
-        
     ]
 }
