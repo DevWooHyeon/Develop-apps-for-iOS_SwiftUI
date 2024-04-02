@@ -41,6 +41,14 @@ struct DetailView: View {
             } header: {
                 Text("Meeting Info")
             }
+            
+            Section {
+                ForEach(scrum.attendees) { attendees in
+                    Label(attendees.name, systemImage: "person")
+                }
+            } header: {
+                Text("Attendees")
+            }
         }
     }
 }
