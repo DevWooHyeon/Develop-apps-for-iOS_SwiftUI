@@ -2,7 +2,7 @@
 //  TrailingIconLabelStyle.swift
 //  Scrumdinger
 //
-//  Created by Toy on 12/22/23.
+//  Created by Nova on 12/22/23.
 //
 
 import SwiftUI

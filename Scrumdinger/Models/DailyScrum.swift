@@ -2,7 +2,7 @@
 //  DailyScrum.swift
 //  Scrumdinger
 //
-//  Created by Toy on 12/19/23.
+//  Created by Nova on 12/19/23.
 //
 
 import Foundation

@@ -2,7 +2,7 @@
 //  ScrumsView.swift
 //  Scrumdinger
 //
-//  Created by Toy on 12/30/23.
+//  Created by Nova on 12/30/23.
 //
 
 import SwiftUI
@@ -14,7 +14,7 @@ struct ScrumsView: View {
         NavigationStack {
             List(scrums) { scrum in
                 NavigationLink {
-                    Text(scrum.title)
+                    DetailView(scrum: scrum)
                 } label: {
                     CardView(scrum: scrum)
                 }

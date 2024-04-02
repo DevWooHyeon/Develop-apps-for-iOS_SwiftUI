@@ -2,7 +2,7 @@
 //  CardView.swift
 //  Scrumdinger
 //
-//  Created by Toy on 12/20/23.
+//  Created by Nova on 12/20/23.
 //
 
 import SwiftUI
